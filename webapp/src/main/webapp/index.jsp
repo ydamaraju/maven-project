@@ -1,1 +1,1 @@
-Hello 26th OCT
+Hello OCT
