@@ -1,1 +1,1 @@
-Hello JUNE-09
+Hello Rakuten
