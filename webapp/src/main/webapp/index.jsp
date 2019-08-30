@@ -1,1 +1,1 @@
-Hello CG for CI and CD 
+Hello SG for CI and CD 
