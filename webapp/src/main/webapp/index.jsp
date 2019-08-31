@@ -1,1 +1,1 @@
-Lunch Break
+Welcome to B2C
