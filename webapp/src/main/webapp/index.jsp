@@ -1,1 +1,1 @@
-Welcome to B2C
+Welcome to CI CD
