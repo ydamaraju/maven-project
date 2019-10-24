@@ -1,1 +1,1 @@
-Hello ALL CG24OCT
+Hello ALL CG24OCT CI-CD
