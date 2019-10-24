@@ -1,1 +1,1 @@
-Hello COG_B2C EVENING
+Hello CG24OCT
