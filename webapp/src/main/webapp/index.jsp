@@ -1,1 +1,1 @@
-Welcome ALL CG11NOV This is for CI CD
+WELCOME ALL CG11NOV This is for CI CD
