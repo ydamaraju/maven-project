@@ -1,1 +1,1 @@
-WELCOME ALL TKM This is for CI
+WELCOME ALL TKM This is for CI AND CD
