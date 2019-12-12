@@ -1,2 +1,1 @@
-WELCOME ALL cg . Good job !!
-Today is Wednesday .
+WELCOME CG This is demo for CI & CD
