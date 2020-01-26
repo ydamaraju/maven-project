@@ -1,1 +1,1 @@
-WELCOME CG This is demo for CI & CD
+WELCOME EVOKE FOR CI
