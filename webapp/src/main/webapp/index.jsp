@@ -1,1 +1,1 @@
-WELCOME Cert FOR CI & CD
+WELCOME Cert FOR CI & CD Via Pipeline
