@@ -1,1 +1,1 @@
-WELCOME Cert FOR CI & CD via jenkinsfile
+WELCOME Cert FOR CI & CD running with cron
