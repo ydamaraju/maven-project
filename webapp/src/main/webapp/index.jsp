@@ -1,1 +1,1 @@
-WELCOME all for devops
+WELCOME all
