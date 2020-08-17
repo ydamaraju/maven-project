@@ -1,1 +1,1 @@
-WELCOME Brillio for CICD
+WELCOME Brillio for CI
