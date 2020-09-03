@@ -1,1 +1,1 @@
-WELCOME All for CI and CD
+WELCOME All for CI and CD with docker
